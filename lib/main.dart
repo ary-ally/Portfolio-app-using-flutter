@@ -39,7 +39,7 @@ class Home extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: <Widget>[
                       Text(
-                        "Aryan Sharma",
+                        "Ary-ally",
                         style: TextStyle(fontSize: 30,color: Colors.white),
                       ),
                       Text(
@@ -68,7 +68,7 @@ class Home extends StatelessWidget {
                           width: 20,
                         ),
                         Text(
-                          "Ajay Kumar Garg Engineering College",
+                          "ABC COLLEGE",
                           style: TextStyle(fontSize: 15,color: Colors.white),
                         ),
                       ],
@@ -102,7 +102,7 @@ class Home extends StatelessWidget {
                           height: 60,
                         ),
                         Text(
-                          "Ghaziabad",
+                          "ABC city",
                           style: TextStyle(fontSize: 15,color: Colors.white),
                         ),
                       ],
@@ -119,7 +119,7 @@ class Home extends StatelessWidget {
                           height: 60,
                         ),
                         Text(
-                          "aryansharma4003@gmail.com",
+                          "ABC@gmail.com",
                           style: TextStyle(fontSize: 15,color: Colors.white),
                         ),
                       ],
@@ -136,7 +136,7 @@ class Home extends StatelessWidget {
                           height: 60,
                         ),
                         Text(
-                          "9457401858",
+                          "+91-94xxxxxxxx",
                           style: TextStyle(fontSize: 15,color: Colors.white),
                         ),
                       ],
@@ -152,7 +152,7 @@ class Home extends StatelessWidget {
                     ),
                     SizedBox(height: 80,),
                     Text(
-                      "Created by Aryan",
+                      "Created by Ary-ally",
                       style: TextStyle(fontSize: 15,color: Colors.white),
 
                     ),
